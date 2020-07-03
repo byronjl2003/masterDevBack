@@ -1,5 +1,6 @@
 #Version en produccion
 Para ver la api en funcionamiento ir al siguiente link
+(http://34.70.104.102)
 # Proyecto para aplicar a plaza de Backend dev
 
 Este proyecto consiste en una API RestFull para el almacenamiento de mensajes en memoria y la posibilidad de exponer este recurso(mensajes) a otras aplicaciones cliente.
